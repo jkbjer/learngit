@@ -1,4 +1,0 @@
-void(maim)
-{
-ptintf("123"/n);
-}
